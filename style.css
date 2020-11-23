@@ -3,7 +3,6 @@ body {
   padding: 0;
   background-color: #000000; }
 
-@media screen and (max-width: 1900px) {
   .bg1 {
     width: 1441px;
     height: 675px;
@@ -589,6 +588,6 @@ body {
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
-    line-height: 12px; } }
+    line-height: 12px; } 
 
 /*# sourceMappingURL=style.css.map */
